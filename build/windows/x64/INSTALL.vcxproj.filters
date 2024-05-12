@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\megco\Documents\Projectapp\ParkPal5\parkpal5\build\windows\x64\CMakeFiles\f10ef436cd0054dbb2fa1dbe5686fa14\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7A7BFBE9-DB43-31D6-BD27-6B60B63683D4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

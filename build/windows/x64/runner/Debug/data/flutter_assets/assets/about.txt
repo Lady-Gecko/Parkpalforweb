@@ -1,0 +1,25 @@
+About ParkPal
+
+Welcome to ParkPal, your reliable companion for hassle-free parking in public spaces! We understand the challenges associated with finding convenient parking, and we're here to make your experience seamless and stress-free.
+
+Our Mission:
+At ParkPal, our mission is to simplify the parking process and enhance accessibility for everyone. Whether you're heading to a shopping center, a bustling downtown area, or a multi-story car park, we've got you covered. We strive to provide a user-friendly platform that ensures a smooth parking experience for all.
+
+How It Works:
+With our intuitive app, you can easily book parking spaces in advance, saving you time and effort. No more circling around crowded lots or worrying about finding a suitable spot. Simply input your details, including your name, email, phone, car registration, and booking information, and let us take care of the rest.
+
+Blue Badge Accessibility:
+We are committed to inclusivity. If you're a Blue Badge holder, our app allows you to indicate your special status, ensuring that accessible parking spaces are available when you need them.
+
+Privacy and Security:
+Your privacy is our priority. We collect the necessary information for reservations, and rest assured, your data is stored securely in our MySQL database for the sole purpose of managing your booking. Once your reservation period ends, your information is permanently deleted.
+
+Why Choose ParkPal?
+
+User-Friendly: Our app is designed with simplicity in mind, ensuring a smooth and hassle-free user experience.
+Convenience: Say goodbye to the stress of finding parking spaces. Book in advance and enjoy a stress-free arrival at your destination.
+Inclusivity: We value diversity and inclusivity, making sure that everyone, including Blue Badge holders, can access suitable parking spaces.
+Contact Us:
+Have questions, feedback, or need assistance? Our dedicated support team is here to help. Reach out to us at Cardiff Metropolitan University, and we'll be happy to assist you.
+
+Thank you for choosing ParkPal – your partner in stress-free parking!

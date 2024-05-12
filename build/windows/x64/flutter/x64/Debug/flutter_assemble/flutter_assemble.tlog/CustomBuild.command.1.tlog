@@ -1,0 +1,28 @@
+^C:\USERS\MEGCO\DOCUMENTS\PROJECTAPP\PARKPAL5\PARKPAL5\BUILD\WINDOWS\X64\CMAKEFILES\1582A2F0602B0D02DB2CBF58599DD687\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\megco\Downloads\flutter_windows_3.16.9-stable\flutter PROJECT_DIR=C:\Users\megco\Documents\Projectapp\ParkPal5\parkpal5 FLUTTER_ROOT=C:\Users\megco\Downloads\flutter_windows_3.16.9-stable\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\megco\Documents\Projectapp\ParkPal5\parkpal5\windows\flutter\ephemeral PROJECT_DIR=C:\Users\megco\Documents\Projectapp\ParkPal5\parkpal5 FLUTTER_TARGET=C:\Users\megco\Documents\Projectapp\ParkPal5\parkpal5\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9iNGJmZDQ1OTg2NWE4ZDYzNmYyNmFjYTBkMzMwYWUyOTdjMDA2YzNjLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\megco\Documents\Projectapp\ParkPal5\parkpal5\.dart_tool\package_config.json C:/Users/megco/Downloads/flutter_windows_3.16.9-stable/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MEGCO\DOCUMENTS\PROJECTAPP\PARKPAL5\PARKPAL5\BUILD\WINDOWS\X64\CMAKEFILES\F9898D339054F833FCA0C99B96572793\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\MEGCO\DOCUMENTS\PROJECTAPP\PARKPAL5\PARKPAL5\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/megco/Documents/Projectapp/ParkPal5/parkpal5/windows -BC:/Users/megco/Documents/Projectapp/ParkPal5/parkpal5/build/windows/x64 --check-stamp-file C:/Users/megco/Documents/Projectapp/ParkPal5/parkpal5/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
